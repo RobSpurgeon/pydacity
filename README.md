@@ -8,7 +8,8 @@ start up audacity, create five empty audio channels
 go into Edit > Preferences > Modules > mod-script-pipeline:enabled to allow pydacity to access the program
 run "python chatbot.py" once audacity is started up
 
-At this point, the chatbot will process commands entered into the chatroom
+At this point, the chatbot will process commands entered into the chatroom.
+
 The project will work whether you're streaming or not, but it will be more fun if you're streaming.
 
 
