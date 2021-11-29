@@ -2,8 +2,9 @@
 Hooking Audacity tone generator up to twitch chat
 
 
-To set it up, fill in the username, token, client ID and channel with the appropriate values. You will need to go through twitch API to get the auth codes to get it to work
-start up audacity, create five empty channels
+To set it up, fill in the username, token, client ID and channel with the appropriate values. You will need to go through twitch API to get the auth codes to get it to work.
+
+start up audacity, create five empty audio channels
 go into Edit > Preferences > Modules > mod-script-pipeline:enabled to allow pydacity to access the program
 run "python chatbot.py" once audacity is started up
 
